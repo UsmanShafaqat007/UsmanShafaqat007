@@ -87,9 +87,6 @@ Full-Stack & AI/ML Engineer with **5+ years** and **25+ shipped projects** acros
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UsmanShafaqat007&theme=tokyonight" alt="profile summary"/>
-</p>
-<p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UsmanShafaqat007&theme=tokyonight&utcOffset=5" alt="productive time"/>
 </p>
 
