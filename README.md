@@ -12,10 +12,11 @@
 
 Full-Stack & AI/ML Engineer with **5+ years** and **25+ shipped projects** across enterprise, freelance, and personal work. I build **agentic AI systems** end to end — from RAG pipelines and multi-model LLM orchestration to the polished React frontends on top.
 
-- 🧠 **AI/ML:** RAG architecture, LLM agents & tool-calling, vector search, multi-provider routing (Claude / OpenAI / Gemini)
+- 🤖 **Agentic AI:** tool-calling agents (300+ tools in production), LangChain / LangGraph, MCP, multi-model orchestration & routing with cost governance, LLM-as-judge evaluation
+- 🧠 **AI/ML:** RAG pipelines, vector & semantic search over millions of embeddings, multi-provider LLMs (Claude / OpenAI / Gemini), AI media & voice (image/video gen, TTS/STT, voice agents)
 - ⚙️ **Backend:** FastAPI, Python, Node.js, Postgres/pgvector, Milvus, Celery, Docker
 - 🎨 **Frontend:** React, Next.js, TypeScript, Tailwind, Framer Motion
-- 🚀 Currently architecting **Maia** — an agentic marketing copilot @ Protaigé
+- 🏢 Currently building enterprise AI platforms **@ WorkHub** — defining the company's RAG, vector-search and multi-model architecture standards
 - 📍 Lahore, Pakistan · **Open to opportunities** (remote / relocation)
 
 ---
@@ -54,11 +55,14 @@ Full-Stack & AI/ML Engineer with **5+ years** and **25+ shipped projects** acros
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UsmanShafaqat007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanShafaqat007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UsmanShafaqat007&theme=tokyonight" alt="profile summary"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanShafaqat007&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UsmanShafaqat007&theme=tokyonight" alt="repos per language"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UsmanShafaqat007&theme=tokyonight" alt="most committed language"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=UsmanShafaqat007&theme=tokyonight&hide_border=true" alt="contribution streak"/>
 </p>
 
 ---
