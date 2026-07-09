@@ -38,17 +38,49 @@ Full-Stack & AI/ML Engineer with **5+ years** and **25+ shipped projects** acros
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Projects
 
-> Most of my flagship work is enterprise / client-owned (private repos). Full case studies with architecture and impact live on my **[portfolio »](https://usmancodes.netlify.app/)**
+> Most work is enterprise / client-owned (private repos). Full case studies with architecture & impact on my **[portfolio »](https://usmancodes.netlify.app/)**
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Protaigé** | Agentic AI marketing platform — *Maia* copilot (~366 tools) plans, generates & publishes campaigns end to end | FastAPI · React · Claude · Supabase |
-| **WorkBot** | Enterprise RAG platform — Milvus vector search over millions of embeddings, 99.9% uptime | FastAPI · LangChain · Milvus · pgvector |
-| **Dubai Real Estate Platform** | AI property management — Claude PDF→listing pipeline, AI lead scoring | FastAPI · pgvector · React |
-| **Edrak** | Legal AI research platform — multi-model LLMs + legal web crawling | FastAPI · GPT-4o · Claude · Scrapy |
-| **Architrust** *(Team Lead)* | Multi-tenant document-intelligence, offline-first OCR + cloud-sync — digitizing national archives in Guinea | FastAPI · OCR · multi-SPA |
+**Flagship**
+- **Protaigé** — Agentic AI marketing platform; *Maia* copilot (~366 tools) plans, generates & ships campaigns end to end. `FastAPI · React · Claude · Supabase`
+
+**WorkHub — Enterprise AI**
+- **WorkBot** — Enterprise RAG platform; Milvus vector search over millions of embeddings, 99.9% uptime. `FastAPI · LangChain · Milvus · pgvector`
+- **Dubai Real Estate Platform** — AI property management; Claude PDF→listing pipeline, AI lead scoring. `FastAPI · pgvector · React`
+- **MemoMind** — WhatsApp-based semantic personal-memory assistant. `Python · OpenAI · Whisper · Milvus`
+- **Competitor Search API** — AI market-intelligence REST platform. `FastAPI · Perplexity · PostgreSQL`
+- **Edrak** — Legal AI research & advisory; multi-model LLMs + legal web crawling. `FastAPI · GPT-4o · Claude · Scrapy`
+
+**Freelance & Lead Engineering**
+- **Architrust** *(Team Lead)* — Multi-tenant document-intelligence; OCR → AI-queryable archives (national archives, Guinea). `FastAPI · OCR · React`
+- **AzughAI** *(Team Lead)* — AI fashion stylist; visual search (FashionSigLIP + Milvus) over live inventory. `Django · Milvus · React`
+- **Emily** *(Team Lead)* — AI cold-email & multi-channel outreach with human-in-the-loop review. `FastAPI · LangGraph · React`
+- **Gumtree Lead-Gen** *(Team Lead)* — Automated lead-gen from Gumtree; scraping + LLM vendor engagement. `FastAPI · Playwright`
+- **Kubee** *(Team Lead)* — Scraping + vendor outreach for a French marketplace; JA3/TLS anti-detection. `Python · curl_cffi · FastAPI`
+- **Revel** *(Team Lead)* — Mobile-first student-coaching platform; conversational auto-saving intake. `FastAPI · React · TypeScript`
+- **Auto Outreach Platform** — Large-scale marketplace scraping + AI vendor outreach, anti-bot evasion. `Python · FastAPI · Docker`
+- **Estateable** — AI real-estate investment analysis; Estateable Score + vector recommendations. `React · TypeScript · Vite`
+- **Restaurant Finance Platform** — AI receipt OCR, POS/accounting analytics, RAG assistant. `Next.js · Drizzle · Claude`
+- **KAMLINK** — Healthcare management; multi-org, medical staff & patient-care tracking. `Node · Express · PostgreSQL`
+
+**Coeus Solutions**
+- **WorkHub Connect** — Business voice/video + messaging platform. `React · PHP Symfony · AWS Chime`
+- **WorkHub Admin** — Central admin for the WorkHub ecosystem; Okta SSO. `React · PHP Symfony`
+- **WorkHub Scheduling** — Multi-calendar sync & meeting scheduling (Cronofy). `React · PHP Symfony · Redis`
+- **AtomicPRD** — AI zero→MVP; generates PRDs + atomic tasks from conversation. `FastAPI · Claude · React`
+
+**Bravinn Technologies**
+- **Animatricks** — Cloud video-creation software (40% faster DB). `React · ASP.NET Core · Node`
+- **Logo Builder** — Cloud logo design tool; 100s concurrent users. `JavaScript · ASP.NET · EF`
+- **Academinator** — Multi-module school management system. `ASP.NET · EF · MSSQL`
+- **MockUp App** — Product mockup creator. `JavaScript · ASP.NET · EF`
+
+**Personal**
+- **Rodcast** — AI: Reddit → fully produced audio podcasts (script, TTS, cover art). `FastAPI · React · GPT-4o-mini · ElevenLabs`
+- **Screen Recording Extension** — Multi-source Chrome recorder. `JavaScript · WebRTC`
+- **Car Booking Platform** — Rental platform with responsive dashboard. `React · Node · MongoDB`
+- **Property Auction System** — Real-time property management & auctions. `React · Node · Socket.IO`
 
 ---
 
