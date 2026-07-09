@@ -90,11 +90,7 @@ Full-Stack & AI/ML Engineer with **5+ years** and **25+ shipped projects** acros
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UsmanShafaqat007&theme=tokyonight" alt="profile summary"/>
 </p>
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UsmanShafaqat007&theme=tokyonight" alt="repos per language"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UsmanShafaqat007&theme=tokyonight" alt="most committed language"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=UsmanShafaqat007&theme=tokyonight&hide_border=true" alt="contribution streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UsmanShafaqat007&theme=tokyonight&utcOffset=5" alt="productive time"/>
 </p>
 
 ---
